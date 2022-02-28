@@ -19,8 +19,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 #cipher-flags
 CIPHER_OFFICIAL := true
 TARGET_BOOT_ANIMATION_RES := 1080
-PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.cipher.maintainer=Sourav™
+CIPHER_MAINTAINER := Sourav™
 
 BUILD_FINGERPRINT := "google/raven/raven:12/SQ1D.220205.003/8069835:user/release-keys"
 
